@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI 👋, I'm Charan R I'm mastering the art of Front-end development, I'm Pursuing Master's in Full Stack Development and I have built many projects front-end and backend-end🚀<br><br>🔭 I’m currently focusing on Full Stack Development<br>🧿 I'm good @ Frontend development (JS, React, Tailwindcss)<br>🌱 Mastering Backend (NodeJs, express & MongoDB)<br>💬 Ask me about anything<br>⚡ Fun fact: I am a crazy person!
+HI 👋, I'm Charan R I'm mastering the art of Front-end development, Completed Master's in Full Stack Development and I have built many projects front-end and backend-end🚀<br><br>🔭 I’m currently focusing on Full Stack Development<br>🧿 I'm good @ Frontend development (JS, React, Tailwindcss)<br>🌱 Mastering Backend (NodeJs, express & MongoDB)<br>💬 Ask me about anything<br>⚡ Fun fact: I am a crazy person!
 
 
 ## 🌐 Socials:
