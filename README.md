@@ -1,5 +1,23 @@
-# 💫 About Me:
-HI 👋, I'm Charan R I'm mastering the art of Front-end development, Completed Master's in Full Stack Development and I have built many projects front-end and backend-end🚀<br><br>🔭 I’m currently focusing on Full Stack Development<br>🧿 I'm good @ Frontend development (JS, React, Tailwindcss)<br>🌱 Mastering Backend (NodeJs, express & MongoDB)<br>💬 Ask me about anything<br>⚡ Fun fact: I am a crazy person!
+Hi 👋, I'm Charan R<br><br>
+
+🚀 Full Stack Developer (MERN) with 1+ year of hands-on industry experience<br><br>
+
+🔭 Currently focused on building scalable full stack applications<br>
+💡 Strong in Frontend: JavaScript, React.js, Tailwind CSS<br>
+⚙️ Backend: Node.js, Express.js, MongoDB<br>
+☁️ Experience with GCP, REST APIs & cloud deployments<br><br>
+
+💼 Contributed to production-level applications:<br>
+- Built TADA dashboard end-to-end<br>
+- Enhanced Admin dashboards with new features & optimizations<br>
+- Developed complex, flexible data tables with global search<br>
+- Designed complete frontend architectures for multiple web apps<br>
+- Integrated, tested & developed APIs aligned with frontend needs<br><br>
+
+📈 Focused on clean code, performance & scalable UI/UX<br><br>
+
+💬 Ask me about MERN, dashboards, or real-world app development<br>
+⚡ Fun fact: I enjoy building things that actually get used 🚀
 
 
 ## 🌐 Socials:
