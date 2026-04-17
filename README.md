@@ -1,7 +1,5 @@
 Hi 👋, I'm Charan R<br><br>
-
 🚀 Full Stack Developer (MERN) with 1+ year of hands-on industry experience<br><br>
-
 🔭 Currently focused on building scalable full stack applications<br>
 💡 Strong in Frontend: JavaScript, React.js, Tailwind CSS<br>
 ⚙️ Backend: Node.js, Express.js, MongoDB<br>
